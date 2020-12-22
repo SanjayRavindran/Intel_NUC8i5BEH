@@ -7,12 +7,12 @@ If you have the Exact same/similar Hardware configuration as like me you can use
 
 ## Configuration is as follows ##
 
-- ***Intel i5-8259U with Intel Iris Plus Graphics 655*** 
+- ***Intel i5-8259U with Intel Iris Plus Graphics 655*** https://amzn.to/3pdYWIJ
    - BIOS version is 85.
    
-- ***Hyper X - 32 GB 2400 MHz DDR4 RAM***
+- ***Hyper X - 32 GB 2400 MHz DDR4 RAM*** https://amzn.to/2KjrD8E
  
-- ***Samsung 970 Evo Plus 500GB SSD for Storage***
+- ***Samsung 970 Evo Plus 500GB SSD for Storage*** https://amzn.to/2WzwPYk
  
  # Donate Me!!!
  
