@@ -8,6 +8,7 @@ If you have the Exact same/similar Hardware configuration as like me you can use
 ## Configuration is as follows ##
 
 - ***Intel i5-8259U with Intel Iris Plus Graphics 655*** 
+   - BIOS version is 85.
    
 - ***Hyper X - 32 GB 2400 MHz DDR4 RAM***
  
