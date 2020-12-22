@@ -28,7 +28,7 @@ https://paypal.me/SanjayRavindran?locale.x=en_GB
 
 I have posted my NUC Hackintosh running Big Sur 11.1 on my youtube channel.
 
-
+https://youtu.be/KpkVnQtoUqk
 
 ### Credits:
 
