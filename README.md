@@ -26,6 +26,7 @@ https://youtu.be/KpkVnQtoUqk
 Thanks for [Apple](https://www.apple.com/ "Apple") For MacOs<br/>
 Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore<br/>
 Thanks for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") for the Guide<br/>
+Thanks for [OpenIntelWireless](https://github.com/OpenIntelWireless "OpenIntelWireless")<br/>
 Thanks for [Mieze](https://github.com/Mieze "Mieze") for providing RTL8111 Driver<br/>
 Thanks for [RehabMan](https://github.com/RehabMan "RehabMan") for USBInjectAll.kext for initial usb port map.<br/>
 Thanks for [headkaze](https://github.com/headkaze "headkaze") for [Hackintool](https://github.com/headkaze/Hackintool "Hackintool").<br/>
