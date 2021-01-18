@@ -11,6 +11,7 @@ If you have the Exact same/similar Hardware configuration as like me you can use
    - BIOS version is 85.<br/>
 - ***Hyper X - 32 GB 2400 MHz DDR4 RAM*** https://amzn.to/2KjrD8E<br/>
 - ***Samsung 970 Evo Plus 500GB SSD for Storage*** https://amzn.to/2WzwPYk<br/>
+- ***LG 27UL850-W 4K VESA HDR400 Monitor***  https://amzn.to/3q9isXF <br/>
  
  # Donate Me!!!<br/>
 Consider Donating this will tremendously helpful for me
