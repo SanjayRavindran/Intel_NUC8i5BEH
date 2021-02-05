@@ -8,7 +8,7 @@ If you have the Exact same/similar Hardware configuration as like me you can use
 ## Configuration is as follows ##
 
 - ***Intel i5-8259U with Intel Iris Plus Graphics 655*** https://amzn.to/3pdYWIJ<br/>
-   - BIOS version is 85.<br/>
+   - BIOS version is 85.(https://downloadcenter.intel.com/download/29959/BIOS-Update-BECFL357-)<br/>
 - ***Hyper X - 32 GB 2400 MHz DDR4 RAM*** https://amzn.to/2KjrD8E<br/>
 - ***Samsung 970 Evo Plus 500GB SSD for Storage*** https://amzn.to/2WzwPYk<br/>
 - ***LG 27UL850-W 4K VESA HDR400 Monitor***  https://amzn.to/3q9isXF <br/>
@@ -26,7 +26,7 @@ https://youtu.be/KpkVnQtoUqk
 Thanks for [Apple](https://www.apple.com/ "Apple") For MacOs<br/>
 Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore<br/>
 Thanks for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") for the Guide<br/>
-Thanks for [Mieze](https://github.com/Mieze "Mieze") for providing RTL8111 Driver<br/>
+Thanks for [OpenIntelWireless](https://github.com/OpenIntelWireless "OpenIntelWireless")<br/>
 Thanks for [RehabMan](https://github.com/RehabMan "RehabMan") for USBInjectAll.kext for initial usb port map.<br/>
 Thanks for [headkaze](https://github.com/headkaze "headkaze") for [Hackintool](https://github.com/headkaze/Hackintool "Hackintool").<br/>
 Thanks for [CorpNewt](https://github.com/corpnewt "CorpNewt") for his tools.<br/>
