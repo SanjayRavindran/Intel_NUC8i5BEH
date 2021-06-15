@@ -3,6 +3,8 @@ EFI for NUC Hackintosh with OpenCore.
 
 If you have the Exact same/similar Hardware configuration as like me you can use this EFI for verification purpose.If you are successful please consider donating via PayPal...That would be helpful for to keep creating!!
 
+## As of May 2021-- I have made a switch to Linux so I am not updating the EFI ##
+
 **DO NOT BLAME ME IF YOU HAVE DIFFERENT MACHINE AND MADE SOME MESS ON YOUR MACHINE **
 
 ## Configuration is as follows ##
