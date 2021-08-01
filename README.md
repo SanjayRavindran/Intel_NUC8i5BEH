@@ -1,9 +1,12 @@
 # Intel_NUC8i5BEH
 EFI for NUC Hackintosh with OpenCore.
 
+**DO NOT BLAME ME IF YOU HAVE DIFFERENT MACHINE AND MADE SOME MESS ON YOUR MACHINE **
+
 If you have the Exact same/similar Hardware configuration as like me you can use this EFI for verification purpose.If you are successful please consider donating via PayPal...That would be helpful for to keep creating!!
 
-**DO NOT BLAME ME IF YOU HAVE DIFFERENT MACHINE AND MADE SOME MESS ON YOUR MACHINE **
+## As of May 2021-- I have made a switch to Linux so I am not updating the EFI... <br/><br/>But I have updated and tested the EFI for OC v0.7.1( on August 1,2021 ) and added HorNDIS Kext for Andoid USB Tethering..
+
 
 ## Configuration is as follows ##
 
