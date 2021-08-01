@@ -7,7 +7,6 @@ If you have the Exact same/similar Hardware configuration as like me you can use
 
 ## As of May 2021-- I have made a switch to Linux so I am not updating the EFI... <br/><br/>But I have updated and tested the EFI for OC v0.7.1( on August 1,2021 ) and added HorNDIS Kext for Andoid USB Tethering..
 
-
 ## Configuration is as follows ##
 
 - ***Intel i5-8259U with Intel Iris Plus Graphics 655*** https://amzn.to/2P8b1Cu<br/>
